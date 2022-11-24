@@ -17,6 +17,6 @@
   * Imprimir el valor de la variable V.
 6.  Si la respuesta es "3" realizar los siguientes pasos, de lo contrario seguir al paso 7.
   * Pedir el valor del radio, este debe ser de tipo int, guardarlo en variable "r".
-  * Realizar la operación "4/3*π(r*r*r*)" y guardarlo en la variable de tipo int V.
+  * Realizar la operación "4/3 x π x (r^3)" y guardarlo en la variable de tipo int V.
   * Imprimir el valor de la variable V.
 7. Indicar que la entrada no es correcta, no existe ninguna opción que corresponda a la entrada obtenida.
