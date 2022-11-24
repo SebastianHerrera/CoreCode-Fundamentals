@@ -5,7 +5,7 @@
 3.	Preguntar si la temperatura dada es una temperatura en grados Celsius o Fahrenheit.
 4.	Verificar si el resultado de la respuesta es “Celsius”, si el resultado es True:
 - Realizar la operación (T × 9/5) + 32, y guardarlo en la variable de tipo int “Result”. &nbsp;
-    b. Imprimir str(Result) + “grados Fahrenheit”.
+    -- Imprimir str(Result) + “grados Fahrenheit”.
     c. Fin del Algoritmo.
 Si el resultado al verificar es un false entonces realizar el paso 5.
 5.	Ya verificado que el resultado de la respuesta sea “Fahrenheit” realizar:
