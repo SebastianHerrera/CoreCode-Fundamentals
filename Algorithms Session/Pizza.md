@@ -1,6 +1,6 @@
 # Design an algorithm to prepare a pizza from scratch. Define the ingredients, what will be the flavor and the preparation
 ## Cómo preparar una pizza de peperoni
-### 1.	Consigue todos los ingredientes para cocinar la pizza, los ingredientes son: 1.5 kilos de harina, 1 litro de agua, 60 g de sal, 15 g de levadura fresca, Pepperoni, 200-150 g de queso cremoso o mozzarella, salsa de tomate frito.
+1.	Consigue todos los ingredientes para cocinar la pizza, los ingredientes son: 1.5 kilos de harina, 1 litro de agua, 60 g de sal, 15 g de levadura fresca, Pepperoni, 200-150 g de queso cremoso o mozzarella, salsa de tomate frito.
 2.	Verificar que en efecto tenemos todos los ingredientes, si el resultado de verificar es false entonces debemos repetir el paso 1 hasta que tengamos todos los ingredientes. De lo contrario, si el resultado es un True podemos proseguir con los siguientes pasos.
 3.	Vierte el agua a temperatura ambiente en un recipiente y desmenuza la levadura fresca. Mezcla hasta que se integren ambos ingredientes.
 4.	Agrega la mitad de la harina de a poco para que se transforme en azúcares simples y no quede un masacote a lo cual después tienes que añadirle agua. Rompe bien todos los grumos.
