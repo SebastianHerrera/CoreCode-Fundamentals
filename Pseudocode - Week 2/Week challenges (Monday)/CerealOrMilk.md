@@ -13,4 +13,4 @@
 ### ___ Fin el Algoritmo.
 
 ## Diagrama de flujo
-[Diagrama de flujo](https://github.com/SebastianHerrera/CoreCode-Fundamentals/blob/main/Pseudocode%20-%20Week%202/Week%20challenges%20(Monday)/img/Diagrama%20en%20blanco.png?raw=true)
+![Diagrama de flujo](https://github.com/SebastianHerrera/CoreCode-Fundamentals/blob/main/Pseudocode%20-%20Week%202/Week%20challenges%20(Monday)/img/Diagrama%20en%20blanco.png?raw=true)
