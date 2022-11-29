@@ -4,12 +4,12 @@
 ## Pseudocode
 ### Tener los materiales listos (leche, bowl, cereal).
 ### Si servimos antes el cereal:
-###     Servir leche en el bowl.
-###     Comer.
-###     Fin del algoritmo.
+### ___ Servir leche en el bowl.
+### ___ Comer.
+### ___ Fin del algoritmo.
 ### Si servimos antes la leche:
-###     Servir el cereal en el bowl.
-###     Comer.
-###     Fin el Algoritmo.
+### ___ Servir el cereal en el bowl.
+### ___ Comer.
+### ___ Fin el Algoritmo.
 
 ## Diagrama de flujo
