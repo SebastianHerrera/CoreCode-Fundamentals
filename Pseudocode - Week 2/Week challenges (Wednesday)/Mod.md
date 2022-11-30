@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/98846377/204933196-30277e0c-8679-426f-b591-152b7b68b068.png)
 
-##Output Examples
+## Output Examples
 
 ### Número par
 ![image](https://user-images.githubusercontent.com/98846377/204933248-396e3914-3bc0-4cbb-a21e-01c0582cc961.png)
