@@ -1,6 +1,6 @@
 # You are given the task to create a registration form for new users, this form should ask the user for the following information:
 
-- First name
+- ## First name
 - Last name
 - Age
 - Email
