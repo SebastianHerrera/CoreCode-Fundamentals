@@ -1,7 +1,7 @@
 # Truth Tables
 
 ## Solución
-T & T = T **Verdadero**
+T & T = T **Verdadero**\n
 T & F = F **Verdadero**
 F & T = T **Falso**
 F & F = F **Verdadero**
