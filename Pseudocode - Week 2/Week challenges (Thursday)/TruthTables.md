@@ -1,17 +1,17 @@
 # Truth Tables
 
 ## Solución
-### T & T = T **Verdadero**
-### T & F = F **Verdadero**
-### F & T = T **Falso**
-### F & F = F **Verdadero**
-### T | T = T **Verdadero**
-### T | F = F **Falso**
-### F | T = T **Verdadero**
-### F | F = F **Verdadero**
-### ~T = T **Falso**
-### ~F = T **Verdadero**
-### (T & F) | (~F) = T **Verdadero**
-### (T | F ) & (F | F) = T **Falso**
-### ~((T | F ) & (F | F)) & F = F **Verdadero**
-### ~((T | F ) & (F | F)) & T = T **Verdadero**
+### T & T = T **_Verdadero_**
+### T & F = F **_Verdadero_**
+### F & T = T **_Falso_**
+### F & F = F **_Verdadero_**
+### T | T = T **_Verdadero_**
+### T | F = F **_Falso_**
+### F | T = T **_Verdadero_**
+### F | F = F **_Verdadero_**
+### ~T = T **_Falso_**
+### ~F = T **_Verdadero_**
+### (T & F) | (~F) = T **_Verdadero_**
+### (T | F ) & (F | F) = T **_Falso_**
+### ~((T | F ) & (F | F)) & F = F **_Verdadero_**
+### ~((T | F ) & (F | F)) & T = T **_Verdadero_**
