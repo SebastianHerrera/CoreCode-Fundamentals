@@ -4,4 +4,4 @@
 
 ## Output
 
-https://user-images.githubusercontent.com/98846377/205811312-15a6c730-ea74-4a1c-8451-ada03380a975.mp4
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/98846377/205811419-bb8ab127-f34e-49f3-9bac-d939abe02846.gif)
