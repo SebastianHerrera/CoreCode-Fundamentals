@@ -60,5 +60,8 @@ Algoritmo MultiOption
 		FinSi
 	
 FinAlgoritmo
-
 ```
+
+## Output
+
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/98846377/206057318-be99371a-02f3-485f-877b-6978f434c7d4.gif)
