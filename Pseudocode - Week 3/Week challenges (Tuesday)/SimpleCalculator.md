@@ -12,4 +12,4 @@
 
 ## Output
 
-![image](https://user-images.githubusercontent.com/98846377/205811419-bb8ab127-f34e-49f3-9bac-d939abe02846.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/98846377/206053654-2fe31544-3718-480b-bae5-ac6da9b8d481.gif)
