@@ -44,6 +44,6 @@ FinAlgoritmo
 
 ![image](https://user-images.githubusercontent.com/98846377/206335560-7b1441a7-d0b9-4bb3-bb1d-1f94e631a8af.png)
 
-##Output
+## Output
 
 ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/98846377/206336002-6000f004-4133-4dbc-843c-2c7f8a92a220.gif)
