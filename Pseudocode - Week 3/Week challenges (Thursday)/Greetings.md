@@ -11,23 +11,28 @@
 ```
 Algoritmo Greetings
 	YesNo = "Yes"
+	rep = 0
 	Repetir
 		Imprimir "Bienvenido a Greetings"
 		Imprimir "Ingrese la hora que desee (0-23): "
 		Leer time
 		Si time >= 0 & time <=12
 			Imprimir "Buenos días usuario!"
+			rep = rep +1
 		FinSi
 		Si time >= 13 & time <=18
 			Imprimir "Buenas tardes usuario!"
+			rep = rep +1
 		FinSi
 		Si time >= 19 & time <=23
 			Imprimir "Buenas noches usuario!"
+			rep = rep +1
 		FinSi
 		Imprimir "Desea realizar otra operación?"
 		Imprimir "(Yes/No)"
 		Leer YesNo
 	Hasta Que YesNo == "No" | YesNo=="no"
+	Imprimir "Se dieron "+ConvertirATexto(rep)+" greetings." 
 FinAlgoritmo
 ```
 
