@@ -2,7 +2,7 @@
 ## Description
 ### Create a while loop statement with the JavaScript syntax
 ## Code
-```Python
+```Javascript
 console.log("Números del 1 al 10")
 i=0
 while (i<10){
