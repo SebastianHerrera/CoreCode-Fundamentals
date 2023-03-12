@@ -9,6 +9,6 @@
 ## Link a la [Semana 2](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
 ## Link a la [Semana 3](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
 ## Link a la [Semana 4](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
-## Link a la [Semana 5](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
+## Link a la [Semana 5](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Week%205/Week%20challenges%20(Thursday)).
 ## Link a la [Semana 6](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
 ## Link a la [Semana 7](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
