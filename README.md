@@ -6,9 +6,30 @@
 ### Nationality: Guatemala 	:guatemala:
 <br><br><br>
 ## Link a la [Semana 1](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
-## Link a la [Semana 2](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
+<br>
+## Link a la [Semana 2](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Pseudocode%20-%20Week%202).
+<br>
 ## Link a la [Semana 3](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
+<br>
 ## Link a la [Semana 4](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
+<br>
 ## Link a la [Semana 5](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Week%205/Week%20challenges%20(Thursday)).
+<br>
 ## Link a la [Semana 6](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
+<br>
 ## Link a la [Semana 7](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
+<br>
+## Link a la [Semana 8](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
+<br>
+## Link a la [Semana 9](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
+<br>
+## Link a la [Semana 10](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
+<br>
+## Link a la [Semana 11](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
+<br>
+## Link a la [Semana 12](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
+<br>
+## Link a la [Semana 13](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
+<br>
+## Link a la [Semana 14](https://github.com/SebastianHerrera/CoreCode-Fundamentals/tree/main/Algorithms%20-%20Week%201).
+<br>
