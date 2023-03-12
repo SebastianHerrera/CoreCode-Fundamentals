@@ -1,4 +1,4 @@
-# <img align="right"  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx8g1xri0PqeLczVxGm69mrQ0PB483-Al8gsu1JdSTFw&s" width="250px"/> CoreCode Fundamentals
+# <img align="right"  src="https://user-images.githubusercontent.com/98846377/224530582-8c5e9f3e-35c1-4b0c-8723-ea229d486ad3.png" width="250px"/>CoreCode Fundamentals
 
 **This repository is dedicated to all the documentation for the CoreCode Fundamentals course.**
 ### Name: Geovanny Sebastián Herrera Claudio
